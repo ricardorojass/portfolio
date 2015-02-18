@@ -1,0 +1,31 @@
+/* logo */
+
+#logo {
+  float: left;
+  margin-top: 15px;
+  font-size: 2em;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: -1px;
+  padding-top: 9px;
+  font-weight: bold;
+}
+
+@media (max-width:767px) {
+
+#logo {
+  margin: 0;
+  margin-left: 9px;
+  font-size: 1.6em;
+}
+
+}
+
+h2 {
+  font-size: 1.2em;
+  letter-spacing: 1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+  color: #2c3e50;
+}
